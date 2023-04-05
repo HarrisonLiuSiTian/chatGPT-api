@@ -1,0 +1,1 @@
+package cn.harrison.chatgpt.api.domain;
